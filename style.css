@@ -31,6 +31,18 @@ nav ul li a {
     color: #2A7F98;
 }
 
+
+/* parte de blackfriday */
+#blackfriday{
+    background-color: #3E3228;
+    color:#FDF3E1;
+}
+#blackfriday h2{
+    color:#D15E41
+}
+
+
+
 /* el pie de pag */
 footer{
     background-color: #FF9A76;
