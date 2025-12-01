@@ -27,6 +27,18 @@ Se utilizó
 - GitHub para guardar el código en internet y que otras personas puedan colaborar en él  
 - GitHub Pages para publicar la página en internet
 
+## Características
+- En esta página como se mencionó se usaron distintas etiquetas, tales como las de html, head, body, header, nav, main, section, article, aside, footer.
+- Se usó para títulos el h1, h2 y h3 para tener una mayor jerarquía (solo se usó h1 una vez y fue para indicar el título que es Tianguis Rivera, h2 se usó al inicio de las secciones y h3 por ejemplo en el título de los productos).
+- Párrafos explicando desde descripciones de los productos hasta precios y otros elementos
+- Enlaces tanto adentro de la página en el menú con "a" hasta externos en el footer
+- Se usó también múltiples imagenes con img, desde imagenes descargadas como imagenes de inernet
+- Se usó listas desordenadas y ordenadas, siendo las ordenadas para un tipo top
+- Se hizo un formulario con el form, con inputs, labels, fieldset para agruparlos, legend para mostrar una leyenda, textarea para agregar texto y un button con submit para mandarlo por así decirlo
+- Página publicada en Github Pages para que cualquiera lo pueda ver
+- Se hizo uso de Git desde el inicio para el control de versiones
+- Se almacena en Github para que cualquiera pueda acceder al código fuente
+
 
 ## Despliegue
 Se desplegó en Github Pages a partir de este repositorio, puedes ver la página a través del siguiente link:
