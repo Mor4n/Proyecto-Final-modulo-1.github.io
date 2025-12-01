@@ -1,22 +1,53 @@
-body{
+
+*{
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
         sans-serif;
+}
+body{
         text-align: center;
         background-color: #FFF6EF;
 }
 
+/* el margin bottom es pq creo que se ve muy pegado */
+button{
+    background-color: #D15E41;
+    color: whitesmoke;
+    padding: 10px;
+    margin-bottom: 10px; 
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+
+section{
+    border-radius: 50px;
+}
+
 header{
-    background-color: #D15E41; color: #FFFFFF;
+    background-color: #D15E41;
+    color: #FFFFFF;
+    border-radius: 50px;
+
 }
 
 .logo{
 width: 190px
 }
 
-.buscador{
-    width: 300px
-}
 
+.buscador{
+    width: 300px;
+    height: 30px;
+    border-radius: 40px;
+    border-style: none;
+}
+.boton-buscar{
+    background-color:#2A7F98;
+    width: 75px;
+    border-radius: 40px;
+    
+}
+/* NO MANCHEN NO PUEDO CREER QUE ESTOY HACIENDO ESTO YO SOLO 😿😿😿 SÉ QUE NO SE VE LO MÁS BONITO PERO ME ACABA DE AGARRAR EMOCIÓN POR COMO ESTÁ QUEDANDO*/
 
 /* esto es del menu de navegacion */
 nav ul li a {
@@ -63,6 +94,7 @@ nav ul li a {
 /* el pie de pag */
 footer{
     background-color: #FF9A76;
+    border-radius: 50px;
 }
 footer a{
     color: #3E3228;
