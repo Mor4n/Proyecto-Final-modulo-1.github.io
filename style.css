@@ -42,6 +42,15 @@ nav ul li a {
 }
 
 
+/* parte de productos */
+#productos{
+    background-color: #F4F8F9;
+}
+#productos h2{
+    color:#2A7F98
+}
+
+
 
 /* el pie de pag */
 footer{
