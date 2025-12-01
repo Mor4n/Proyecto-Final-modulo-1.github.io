@@ -9,10 +9,21 @@ header{
     background-color: #D15E41; color: #FFFFFF;
 }
 
+.logo{
+width: 190px
+}
+
+.buscador{
+    width: 300px
+}
+
+
 /* esto es del menu de navegacion */
 nav ul li a {
     color: #FFFFFF;
 }
+
+
 
 
 /* el pie de pag */
