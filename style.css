@@ -51,8 +51,19 @@ nav ul li a {
 }
 
 
+/* parte de contacto */
+#contacto{
+    background-color: #FDF3E1;
+}
+.input-contacto{
+    width: 230px;
+}
+
 
 /* el pie de pag */
 footer{
     background-color: #FF9A76;
+}
+footer a{
+    color: #3E3228;
 }
