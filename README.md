@@ -29,8 +29,8 @@ Se utilizó
 
 ## Características
 - En esta página como se mencionó se usaron distintas etiquetas, tales como las de html, head, body, header, nav, main, section, article, aside, footer.
-- Se usó para títulos el h1, h2 y h3 para tener una mayor jerarquía (solo se usó h1 una vez y fue para indicar el título que es Tianguis Rivera, h2 se usó al inicio de las secciones y h3 por ejemplo en el título de los productos).
-- Se colocaronárrafos explicando desde descripciones de los productos hasta precios y otros elementos
+- Se usó para títulos el h1, h2 y h3 para tener una mayor jerarquía (solo se usó h1 una vez y fue para indicar el título que es Tianguis Rivera, h2 se usó al inicio de las secciones y h3 se usó por ejemplo en el título de los productos).
+- Se colocaron párrafos explicando desde descripciones de los productos hasta precios y otros elementos
 - Se usó aside para hacer como que un apartado, que con CSS más avanzado se podría poner hacia la derecha
 - Se pusieron enlaces tanto adentro de la página en el menú con "a" hasta externos en el footer
 - Se usó también múltiples imagenes con img, desde imagenes descargadas como imagenes de internet
@@ -38,7 +38,7 @@ Se utilizó
 - Se hizo un formulario con el form, con inputs, labels, fieldset para agruparlos, legend para mostrar una leyenda, textarea para agregar texto y un button con submit para mandarlo por así decirlo
 - Página publicada en Github Pages para que cualquiera lo pueda ver
 - Se hizo uso de Git desde el inicio para el control de versiones
-- Se almacena en Github para que cualquiera pueda acceder al código fuente
+- Se almacena en Github para que cualquiera pueda acceder al código fuente y pueda colaborar en dado caso en el proyecto
 
 
 ## Despliegue
