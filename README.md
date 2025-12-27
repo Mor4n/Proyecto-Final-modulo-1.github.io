@@ -5,7 +5,7 @@ Esta pagina fue realizada como proyecto final del módulo 1 HTML ;u; en esta pá
 
 Para mi fue demasiado útil el proyecto en cuanto a aprendizaje, desde el "qué voy a hacer?", "cómo puedo hacer esto?" "con qué etiqueta lo puedo hacer?", fue bastante también de revisar si no estaba mal encaminado lo que estuve haciendo semánticamente hablando, como se mencionó, usé casi todas las etiquetas que usamos en clase :D use cosas como header, nav, main, section, article, aside y footer, además de headings h1-h3, p, img, a para dentro del archivo a un Id como para mandar a otro sitio web, ul y ol, strong, em, y un formulario usando form, input, label, textarea, fieldset, legend y button
 
-Algunas etiquetas que pude aprender fueron las de "s" para tachar un texto, "aside" para saber si estuve bien semánticamente para la mini parte de publicidad, "article" para las tarjetitas de productos, "mark" que aunque la usé en la práctica anterior, no estaba seguro si podría usarla para esta, pero se usó como para remarcar el descuento, "fieldset", "legend" y "textarea" que son algunas que no había usado y también tuve que revisar un poquito el como se podía usar correctamente para la parte de formulario, tanto para agrupar los campos en un formulario, como para ponerle una mini-leyenda y para poner una caja de texto grandecita para que pudiera el usuario escribir algo en el formulario.
+Algunas etiquetas que pude aprender para el uso de esta proyecto final fueron las de "s" para tachar un texto, "aside" para saber si estuve bien semánticamente para la mini parte de publicidad, "article" para las tarjetitas de productos, "mark" que aunque la usé en la práctica anterior, no estaba seguro si podría usarla para esta, pero se usó como para remarcar el descuento, "fieldset", "legend" y "textarea" que son algunas que no había usado y también tuve que revisar un poquito el como se podía usar correctamente para la parte de formulario, tanto para agrupar los campos en un formulario, como para ponerle una mini-leyenda y para poner una caja de texto grandecita para que pudiera el usuario escribir algo en el formulario.
 
 Además de ello, se hizo todo el CSS, que en su mayoría fue cambios de color al background, border-radius, y el uso de clases, pero traté de usar colores que fueran estéticos  😺 (espero no dañarles los ojos perdón).
 
@@ -30,9 +30,10 @@ Se utilizó
 ## Características
 - En esta página como se mencionó se usaron distintas etiquetas, tales como las de html, head, body, header, nav, main, section, article, aside, footer.
 - Se usó para títulos el h1, h2 y h3 para tener una mayor jerarquía (solo se usó h1 una vez y fue para indicar el título que es Tianguis Rivera, h2 se usó al inicio de las secciones y h3 por ejemplo en el título de los productos).
-- Párrafos explicando desde descripciones de los productos hasta precios y otros elementos
-- Enlaces tanto adentro de la página en el menú con "a" hasta externos en el footer
-- Se usó también múltiples imagenes con img, desde imagenes descargadas como imagenes de inernet
+- Se colocaronárrafos explicando desde descripciones de los productos hasta precios y otros elementos
+- Se usó aside para hacer como que un apartado, que con CSS más avanzado se podría poner hacia la derecha
+- Se pusieron enlaces tanto adentro de la página en el menú con "a" hasta externos en el footer
+- Se usó también múltiples imagenes con img, desde imagenes descargadas como imagenes de internet
 - Se usó listas desordenadas y ordenadas, siendo las ordenadas para un tipo top
 - Se hizo un formulario con el form, con inputs, labels, fieldset para agruparlos, legend para mostrar una leyenda, textarea para agregar texto y un button con submit para mandarlo por así decirlo
 - Página publicada en Github Pages para que cualquiera lo pueda ver
@@ -58,6 +59,7 @@ https://mor4n.github.io/Proyecto-Final-modulo-1.github.io/
 2. Navega al directorio del proyecto:
 
     ```
+    
     cd Proyecto-Final-modulo-1.github.io
 
     ```
